@@ -1,4 +1,4 @@
-### 1. ER Diagram  
+### 1. ER Diagram   
 Shows the overall structure of the database with entities and their attributes.  
 ![ER Diagram](ScreenShot/ER_diagram.png)
 
